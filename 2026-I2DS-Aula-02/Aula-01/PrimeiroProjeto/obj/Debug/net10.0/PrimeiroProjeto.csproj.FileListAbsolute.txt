@@ -1,0 +1,14 @@
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.exe
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.deps.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.pdb
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\obj\Debug\net10.0\refint\PrimeiroProjeto.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.pdb
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-01\PrimeiroProjeto\obj\Debug\net10.0\ref\PrimeiroProjeto.dll

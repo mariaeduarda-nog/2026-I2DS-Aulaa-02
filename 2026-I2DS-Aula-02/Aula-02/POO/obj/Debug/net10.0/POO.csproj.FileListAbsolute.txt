@@ -1,0 +1,15 @@
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\bin\Debug\net10.0\POO.exe
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\bin\Debug\net10.0\POO.deps.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\bin\Debug\net10.0\POO.runtimeconfig.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\bin\Debug\net10.0\POO.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\bin\Debug\net10.0\POO.pdb
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\obj\Debug\net10.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\obj\Debug\net10.0\POO.AssemblyInfoInputs.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\obj\Debug\net10.0\POO.AssemblyInfo.cs
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\obj\Debug\net10.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\obj\Debug\net10.0\POO.sourcelink.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\obj\Debug\net10.0\POO.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\obj\Debug\net10.0\refint\POO.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\obj\Debug\net10.0\POO.pdb
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\obj\Debug\net10.0\POO.genruntimeconfig.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-02\POO\obj\Debug\net10.0\ref\POO.dll
