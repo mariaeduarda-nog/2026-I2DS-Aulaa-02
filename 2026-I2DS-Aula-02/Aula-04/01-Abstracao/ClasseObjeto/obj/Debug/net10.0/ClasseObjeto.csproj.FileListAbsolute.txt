@@ -1,0 +1,15 @@
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.AssemblyInfoInputs.cache
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.AssemblyInfo.cs
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.csproj.CoreCompileInputs.cache
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.sourcelink.json
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\bin\Debug\net10.0\ClasseObjeto.exe
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\bin\Debug\net10.0\ClasseObjeto.deps.json
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\bin\Debug\net10.0\ClasseObjeto.runtimeconfig.json
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\bin\Debug\net10.0\ClasseObjeto.dll
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\bin\Debug\net10.0\ClasseObjeto.pdb
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.dll
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\obj\Debug\net10.0\refint\ClasseObjeto.dll
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.pdb
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\obj\Debug\net10.0\ClasseObjeto.genruntimeconfig.cache
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-04\01-Abstracao\ClasseObjeto\obj\Debug\net10.0\ref\ClasseObjeto.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DS1.ECFP790N1259039\\Downloads\\2026-I2DS-Aula-02\\Aula-03\\exercicios\\exercicios07\\exercicios07.csproj": {}
+    "C:\\Users\\DS1.ECFP790N1259039\\Downloads\\2026-I2DS-Aula-02\\Aula-03\\exercicios\\exercicios07\\exercicios07.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DS1.ECFP790N1259039\\Downloads\\2026-I2DS-Aula-02\\Aula-03\\exercicios\\exercicios07\\exercicios07.csproj": {
+    "C:\\Users\\DS1.ECFP790N1259039\\Downloads\\2026-I2DS-Aula-02\\Aula-03\\exercicios\\exercicios07\\exercicios07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DS1.ECFP790N1259039\\Downloads\\2026-I2DS-Aula-02\\Aula-03\\exercicios\\exercicios07\\exercicios07.csproj",
+        "projectUniqueName": "C:\\Users\\DS1.ECFP790N1259039\\Downloads\\2026-I2DS-Aula-02\\Aula-03\\exercicios\\exercicios07\\exercicios07.csproj",
         "projectName": "exercicios07",
-        "projectPath": "c:\\Users\\DS1.ECFP790N1259039\\Downloads\\2026-I2DS-Aula-02\\Aula-03\\exercicios\\exercicios07\\exercicios07.csproj",
+        "projectPath": "C:\\Users\\DS1.ECFP790N1259039\\Downloads\\2026-I2DS-Aula-02\\Aula-03\\exercicios\\exercicios07\\exercicios07.csproj",
         "packagesPath": "C:\\Users\\DS1.ECFP790N1259039\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DS1.ECFP790N1259039\\Downloads\\2026-I2DS-Aula-02\\Aula-03\\exercicios\\exercicios07\\obj\\",
+        "outputPath": "C:\\Users\\DS1.ECFP790N1259039\\Downloads\\2026-I2DS-Aula-02\\Aula-03\\exercicios\\exercicios07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
