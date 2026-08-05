@@ -110,8 +110,5 @@ Console.WriteLine("Peso: " + peso + " Altura: " + altura);
 Console.Write((peso <= 100) && (altura > 180));
 
 
-
-
-
     }
 }
