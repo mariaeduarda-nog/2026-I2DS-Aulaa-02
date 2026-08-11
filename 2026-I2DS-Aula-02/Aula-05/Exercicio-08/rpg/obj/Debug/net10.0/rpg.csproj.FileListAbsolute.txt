@@ -1,0 +1,15 @@
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\bin\Debug\net10.0\rpg.exe
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\bin\Debug\net10.0\rpg.deps.json
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\bin\Debug\net10.0\rpg.runtimeconfig.json
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\bin\Debug\net10.0\rpg.dll
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\bin\Debug\net10.0\rpg.pdb
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\obj\Debug\net10.0\rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\obj\Debug\net10.0\rpg.AssemblyInfoInputs.cache
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\obj\Debug\net10.0\rpg.AssemblyInfo.cs
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\obj\Debug\net10.0\rpg.csproj.CoreCompileInputs.cache
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\obj\Debug\net10.0\rpg.sourcelink.json
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\obj\Debug\net10.0\rpg.dll
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\obj\Debug\net10.0\refint\rpg.dll
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\obj\Debug\net10.0\rpg.pdb
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\obj\Debug\net10.0\rpg.genruntimeconfig.cache
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-08\rpg\obj\Debug\net10.0\ref\rpg.dll

@@ -3,19 +3,12 @@
     private static void Main(string[] args)
     {
         // Primeira Conta : ContaBancaria (Sem Limite)
-        ContaBancaria contaSimples = new ContaBancaria();
-        contaSimples.Banco = "Banco do Brasil";
-        contaSimples.Agencia = 1234;
-        contaSimples.Conta = 100011;
-        contaSimples.SaldoAtual = 500.00;
+        ContaBancaria contaSimples = new ContaBancaria(
+            "Banco do Brasil",1234,100011,500.00);
 
         // Segunda Conta : ContaCorrente (Com Limite)
-        ContaCorrente contaCorrente = new ContaCorrente();
-        contaCorrente.Banco = "Itaú";
-        contaCorrente.Agencia = 2444;
-        contaCorrente.Conta = 222333;
-        contaCorrente.SaldoAtual = 1500.00;
-        contaCorrente.Limite = 3000.00;
+        ContaCorrente contaCorrente = new ContaCorrente(
+            "Itaú", 2444,222333, 1500.00,3000.00);
 
         // Exibindo as contas
         Console.WriteLine("=== CONTAS CORRENTES ===");
@@ -32,14 +25,48 @@
         Console.WriteLine($"Conta: {contaCorrente.Conta}");
         Console.WriteLine($"Saldo: R$ {contaCorrente.SaldoAtual:F2}");
         Console.WriteLine($"Limite: R$ {contaCorrente.Limite:F2}");
+
+        // Realizando operações
+        Console.WriteLine("\n=== OPERAÇÕES ===");
+
+        Console.WriteLine("\nConta 1:");
+        contaSimples.Depositar(500);
+        Console.WriteLine($"Novo saldo: R$ {contaSimples.SaldoAtual:F2}");
+
+        contaSimples.Sacar(1000);
+        Console.WriteLine($"Novo saldo: R$ {contaSimples.SaldoAtual:F2}");
+
+        contaSimples.Sacar(200);
+        Console.WriteLine($"Novo saldo: R$ {contaSimples.SaldoAtual:F2}");
+
+
+        Console.WriteLine("\nConta 2:");
+        contaCorrente.Depositar(500);
+        Console.WriteLine($"Novo saldo: R$ {contaCorrente.SaldoAtual:F2}");
+
+        contaCorrente.Sacar(4000);
+        Console.WriteLine($"Novo saldo: R$ {contaCorrente.SaldoAtual:F2}");
+
+        contaCorrente.Sacar(2000);
+        Console.WriteLine($"Novo saldo: R$ {contaCorrente.SaldoAtual:F2}");
+
     }
 
     public class ContaBancaria
     {
-        public string Banco {get; set;}
-        public int Agencia {get; set;}
-        public int Conta {get; set;}
-        public double SaldoAtual {get;set;}
+        public string Banco {get; private set;}
+        public int Agencia {get; private set;}
+        public int Conta {get; private set;}
+        public double SaldoAtual {get; protected set;}
+
+        public ContaBancaria(string banco, int agencia, int conta, double saldoAtual)
+        {
+            this.Banco = banco;
+            this.Agencia = agencia;
+            this.Conta = conta;
+            this.SaldoAtual = saldoAtual;
+        }
+
 
         public void Depositar(double Valor)
         {
@@ -62,7 +89,12 @@
     }
     public class ContaCorrente : ContaBancaria
     {
-        public double Limite {get; set;}
+        public double Limite {get; private set;}
+
+        public ContaCorrente(string banco, int agencia, int conta, double saldoAtual, double limite) : base(banco, agencia, conta, saldoAtual)
+        {
+            this.Limite = limite;
+        }
 
         public override void Sacar(double Valor)
         {
