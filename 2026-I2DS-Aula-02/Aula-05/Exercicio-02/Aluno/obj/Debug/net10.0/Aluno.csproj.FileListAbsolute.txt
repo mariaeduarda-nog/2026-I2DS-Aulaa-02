@@ -1,0 +1,5 @@
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-02\Aluno\obj\Debug\net10.0\Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-02\Aluno\obj\Debug\net10.0\Aluno.AssemblyInfoInputs.cache
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-02\Aluno\obj\Debug\net10.0\Aluno.AssemblyInfo.cs
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-02\Aluno\obj\Debug\net10.0\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\2026-I2DS-Aula-02\Aula-05\Exercicio-02\Aluno\obj\Debug\net10.0\Aluno.sourcelink.json
