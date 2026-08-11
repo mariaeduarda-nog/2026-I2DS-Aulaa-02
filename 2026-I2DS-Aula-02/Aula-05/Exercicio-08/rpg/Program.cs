@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -248,7 +250,7 @@
         }
 
 
-        public virtual void Apresentar()
+        public override void Apresentar()
         {
             Console.WriteLine("\n===== MAGO =====");
 
@@ -256,7 +258,7 @@
         }
 
 
-        public virtual void Atacar(Personagem inimigo)
+        public override void Atacar(Personagem inimigo)
         {
             int dano = Inteligencia * 2;
 
@@ -282,7 +284,7 @@
         }
 
 
-        public virtual void Apresentar()
+        public override void Apresentar()
         {
             Console.WriteLine("\n===== ELFO =====");
 
@@ -290,7 +292,7 @@
         }
 
 
-        public virtual void Atacar(Personagem inimigo)
+        public override void Atacar(Personagem inimigo)
         {
             int dano = Agilidade;
 
@@ -316,7 +318,7 @@
         }
 
 
-        public virtual void Apresentar()
+        public override void Apresentar()
         {
             Console.WriteLine("\n===== CAVALEIRO =====");
 
@@ -324,7 +326,7 @@
         }
 
 
-        public virtual void Atacar(Personagem inimigo)
+        public override void Atacar(Personagem inimigo)
         {
             int dano = Forca + 5;
 
@@ -336,8 +338,7 @@
             inimigo.Defender(dano);
         }
 
-
-        public virtual void Defender(int dano)
+        public override void Defender(int dano)
         {
             // O cavaleiro usa o escudo
             int danoReduzido = dano / 2;
@@ -348,4 +349,4 @@
             base.Defender(danoReduzido);
         }
     }
-}       
+}
