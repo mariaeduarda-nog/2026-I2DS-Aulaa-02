@@ -1,0 +1,15 @@
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\bin\Debug\net10.0\Exercicio-01.exe
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\bin\Debug\net10.0\Exercicio-01.deps.json
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\bin\Debug\net10.0\Exercicio-01.runtimeconfig.json
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\bin\Debug\net10.0\Exercicio-01.dll
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\bin\Debug\net10.0\Exercicio-01.pdb
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\obj\Debug\net10.0\Exercicio-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\obj\Debug\net10.0\Exercicio-01.AssemblyInfoInputs.cache
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\obj\Debug\net10.0\Exercicio-01.AssemblyInfo.cs
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\obj\Debug\net10.0\Exercicio-01.csproj.CoreCompileInputs.cache
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\obj\Debug\net10.0\Exercicio-01.sourcelink.json
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\obj\Debug\net10.0\Exercicio-01.dll
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\obj\Debug\net10.0\refint\Exercicio-01.dll
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\obj\Debug\net10.0\Exercicio-01.pdb
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\obj\Debug\net10.0\Exercicio-01.genruntimeconfig.cache
+C:\Users\DS1.ECFP790N1259039\Downloads\2026-I2DS-Aula-02\Atividades\Exercicio-01\obj\Debug\net10.0\ref\Exercicio-01.dll
